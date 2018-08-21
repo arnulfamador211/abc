@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: https://www.amazon.com/dp/B07DVFWPXF/ref=sspa_dk_detail_6?psc=1");
 die();
 ?>
